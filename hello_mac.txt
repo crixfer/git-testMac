@@ -1,0 +1,1 @@
+This is another test about using git, but in mac.
